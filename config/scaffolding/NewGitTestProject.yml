@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/santhu736852/NewGitTestProject
   gitUsername: santhu736852
   gitBranch: main
+services:
+- serviceName: project.newgittest.integrations:Test1
+  packages:
+  - name: NewGitTestProject
+    version: "1.0"
+- serviceName: pub.date:getCurrentDate
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.1120
