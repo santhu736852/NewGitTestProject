@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="enabled">yes</value>
+  <value name="enabled">no</value>
   <value name="system_package">no</value>
   <value name="version">1.0</value>
   <null name="startup_services"/>
@@ -10,18 +10,18 @@
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="packageServiceValidations">10.15.0.0.674</value>
     <value name="PackageTestdev2">1.0</value>
-    <value name="CustomPackage">2.0</value>
+    <value name="CustomPackage">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">69</value>
+  <value name="build">70</value>
   <null name="description"/>
   <value name="created_date">05-08-2024 11:33:48 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-08-06T08:40:24.186704409Z</value>
+  <value name="lastUpdated">2024-08-06T08:40:41.027678478Z</value>
   <value name="wmProjectId">flf7c1c854da0d6869bb3c99</value>
   <value name="creator">Munatri Baruah</value>
 </Values>

@@ -21,7 +21,7 @@ packages:
   gitServerName: GithubOrigin
   gitUrl: https://github.com/Munatri
   gitUsername: Munatri
-  gitBranch: branch2
+  gitBranch: main
 services:
 - serviceName: project.newgittest.integrations:TestEG
   packages:
