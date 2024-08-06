@@ -7,6 +7,11 @@ packages:
   gitUrl: https://github.com/santhu736852/NewGitTestProject
   gitUsername: santhu736852
   gitBranch: main
+- name: packageServiceValidations
+  gitServerName: poanTestGit
+  gitUrl: https://github.com/PoojaAnandGit
+  gitUsername: PoojaAnandGit
+  gitBranch: main
 services:
 - serviceName: project.newgittest.integrations:TestEG
   packages:
