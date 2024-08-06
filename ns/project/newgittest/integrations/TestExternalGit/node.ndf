@@ -46,7 +46,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">flowqa</value>
-    <value name="lastModifiedDate">1722915634545</value>
+    <value name="lastModifiedDate">1722915838595</value>
     <value name="displayName">TestExternalGit</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -109,12 +109,19 @@
       <record name="/9" javaclass="com.wm.util.Values">
         <value name="itemType">ALL</value>
         <value name="name">NEW</value>
+        <value name="nodePathForDebug">9</value>
       </record>
       <record name="/10" javaclass="com.wm.util.Values">
         <value name="itemType">ALL</value>
         <value name="name">NEW</value>
+        <value name="nodePathForDebug">10</value>
       </record>
       <record name="/11" javaclass="com.wm.util.Values">
+        <value name="itemType">ALL</value>
+        <value name="name">NEW</value>
+        <value name="nodePathForDebug">11</value>
+      </record>
+      <record name="/12" javaclass="com.wm.util.Values">
         <value name="itemType">ALL</value>
         <value name="name">NEW</value>
       </record>
