@@ -17,6 +17,11 @@ packages:
   gitUrl: https://github.webmethods.io/mraj
   gitUsername: mraj
   gitBranch: main
+- name: CustomPackage
+  gitServerName: GithubOrigin
+  gitUrl: https://github.com/Munatri
+  gitUsername: Munatri
+  gitBranch: branch2
 services:
 - serviceName: project.newgittest.integrations:TestEG
   packages:
