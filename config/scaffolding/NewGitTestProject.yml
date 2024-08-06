@@ -12,6 +12,11 @@ packages:
   gitUrl: https://github.com/PoojaAnandGit
   gitUsername: PoojaAnandGit
   gitBranch: main
+- name: PackageTestdev2
+  gitServerName: mraj_org
+  gitUrl: https://github.webmethods.io/mraj
+  gitUsername: mraj
+  gitBranch: main
 services:
 - serviceName: project.newgittest.integrations:TestEG
   packages:
